@@ -6,7 +6,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 - 🚀 Currently studing Physics at I.I.T Roorkee<!-- - 🌐 [Your Personal Website/Portfolio] -->
 - 📧 Reach me at yasharya482190@mgail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-arya-660897249/)
 
 
 ## Featured Projects
@@ -19,7 +19,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 - 📊 [Feature 2]
 - 🚀 [Feature 3]
 
-Explore [Project 1](./project-1) ➡️
+Explore [Project 1](./https://github.com/YASTREAMER/VLG-Project) ➡️
 
 ### [Project 2: Project Name]
 
