@@ -19,7 +19,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 - 📊 [Feature 2]
 - 🚀 [Feature 3]
 
-Explore [Project 1](/https://github.com/YASTREAMER/VLG-Project) ➡️
+Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
 ### [Project 2: Project Name]
 
