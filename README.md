@@ -11,17 +11,17 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 ## Featured Projects
 
-### [Project 1: AI]
+### [Project 1: AI Detection]
 
-[Project Name] is a [brief description of the project]. It aims to [state the main goal/purpose].
+[AI Detection] is a tensorflow based model and a XGBoost based model. It aims to whether an image is AI generated or not.
 
-- 🤖 [Feature 1]
-- 📊 [Feature 2]
-- 🚀 [Feature 3]
+- 🤖 [Used to detect whether a image is AI generated or not]
+- 📊 [The Project have two models :- A cnn one and one XgBoost one ]
+- 🚀 [It uses two different models]
 
 Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
-### [Project 2: Project Name]
+### [Project 2: PAAC Project]
 
 [Project Name] is another exciting project that [brief description of the project]. It's designed to [state the main goal/purpose].
 
@@ -29,7 +29,7 @@ Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 - 📊 [Feature 2]
 - 🚀 [Feature 3]
 
-Explore [Project 2](./project-2) ➡️
+Explore [Project 2](./https://github.com/YASTREAMER/CNN) ➡️
 
 ### [Project 3: Project Name]
 
@@ -43,7 +43,7 @@ Explore [Project 3](./project-3) ➡️
 
 ## Other Projects
 
-Check out my [GitHub profile](https://github.com/your-username) for a complete list of projects and contributions.
+Check out my [GitHub profile](https://github.com/YASTREAMER) for a complete list of projects and contributions.
 
 ## Getting Started
 
