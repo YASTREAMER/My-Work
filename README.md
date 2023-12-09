@@ -21,7 +21,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
-### [Project 2: PACC Project]
+### [Project 2: PAAC Project]
 
 [PAAC Project] is another exciting repo that has a collection of model. It's designed to showcase new and excting models that are used nowadays.
 
