@@ -11,7 +11,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 ## Featured Projects
 
-### [Project 1: Project Name]
+### [Project 1: AI]
 
 [Project Name] is a [brief description of the project]. It aims to [state the main goal/purpose].
 
@@ -19,7 +19,7 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 - 📊 [Feature 2]
 - 🚀 [Feature 3]
 
-Explore [Project 1](./https://github.com/YASTREAMER/VLG-Project) ➡️
+Explore [Project 1](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
 ### [Project 2: Project Name]
 
