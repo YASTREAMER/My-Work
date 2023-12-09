@@ -21,15 +21,15 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
-### [Project 2: PAAC Project]
+### [Project 2: PACC Project]
 
-[Project Name] is another exciting project that [brief description of the project]. It's designed to [state the main goal/purpose].
+[PAAC Project] is another exciting repo that has a collection of model. It's designed to showcase new and excting models that are used nowadays.
 
 - 🤖 [Feature 1]
 - 📊 [Feature 2]
 - 🚀 [Feature 3]
 
-Explore [Project 2](./https://github.com/YASTREAMER/CNN) ➡️
+Explore [PAAC Project](./https://github.com/YASTREAMER/CNN) ➡️
 
 ### [Project 3: Project Name]
 
