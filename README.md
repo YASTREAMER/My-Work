@@ -31,7 +31,7 @@ Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
 Explore [PAAC Project](./https://github.com/YASTREAMER/CNN) ➡️
 
-### [Project 3: Project Name]
+### [Project 3: Self Name]
 
 [Project Name] is a cutting-edge project focused on [brief description of the project]. Its key features include [state the main goal/purpose].
 
