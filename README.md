@@ -25,9 +25,9 @@ Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
 [PAAC Project] is another exciting repo that has a collection of model. It's designed to showcase new and excting models that are used nowadays.
 
-- 🤖 [Feature 1]
-- 📊 [Feature 2]
-- 🚀 [Feature 3]
+- 🤖 [Used DeepCNN to classify MNIST and CIFAR10 Dataset]
+- 📊 [Includes Autoencoders and how they can be used in machine learning]
+- 🚀 [Contains models that can be used just by changing the directory]
 
 Explore [PAAC Project](./https://github.com/YASTREAMER/CNN) ➡️
 
