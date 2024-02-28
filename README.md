@@ -29,7 +29,7 @@ Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 - 📊 [Includes Autoencoders and how they can be used in machine learning]
 - 🚀 [Contains models that can be used just by changing the directory]
 
-Explore [PAAC Project](./https://github.com/YASTREAMER/CNN) ➡️
+Explore [PAAC Project](https://github.com/YASTREAMER/PAAC) ➡️
 
 <!-- ### [Project 3: Self Name]
 
