@@ -11,36 +11,56 @@ Hello there! 👋 I'm Priyanshu Arya, a passionate machine learning enthusiast a
 
 ## Featured Projects
 
-### [Project 1: AI Detection]
+### [Project 1: AI Generated Image Detection Challenge]
 
-[AI Detection] is a tensorflow based model and a XGBoost based model. It aims to whether an image is AI generated or not.
+ AI Generated Image Detection model contains a tensorflow based model and a XGBoost based model. It aims to tell whether an image is AI generated or not.
 
-- 🤖 [Used to detect whether a image is AI generated or not]
-- 📊 [The Project have two models :- A cnn one and one XgBoost one ]
-- 🚀 [It uses two different models]
+- Goal: Implemented a predictive model that embibes the knowledge of Ai-Generated images, and uses them to predict the
+label of a random image at test time
+- Approach: Used CNN to achieve the results and also used XGBoosting to the difference in accuracy
+- Result: The Max accuracy of 96% was achieved on the test dataset while training. The max accuracy of 88% was
+achieved on the testing dataset on the unknown dataset
 
 Explore [VLG Project](/https://github.com/YASTREAMER/VLG-Project) ➡️
 
-### [Project 2: PAAC Project]
+### [Project 2: Deep Learning-based Image Analysis of SDSS Galaxy Data]
 
-[PAAC Project] is another exciting repo that has a collection of model. It's designed to showcase new and excting models that are used nowadays.
+- Goal: To perform classification on the Galaxy10 Dataset
+- Approach: Employed a Varitational AutoEncoders to downsample the image and the output was feed to a Deep CNN to
+perform classifcation. 
 
-- 🤖 [Used DeepCNN to classify MNIST and CIFAR10 Dataset]
-- 📊 [Includes Autoencoders and how they can be used in machine learning]
-- 🚀 [Contains models that can be used just by changing the directory]
+Explore [Deep Learning-based Image Analysis of SDSS Galaxy Data](https://github.com/YASTREAMER/PAAC) ➡️
 
-Explore [PAAC Project](https://github.com/YASTREAMER/PAAC) ➡️
+### [Project 3: Tech Enchanced AI interview Learning Platform]
 
-<!-- ### [Project 3: Self Name]
+Tech Enchanced AI interview Learning Platform a program created by use for the Techshilla IIT Roorkee 2024.
+- Task: To develop a sophisticated machine learning model capable of generating diverse interview question aligned with
+specific topics, ensuring depth of conversation 
+- Approach: Question Generation, Speech to text converter, Grammar and error detection, feedback. 
+- Libraries: Whisper, Pytorch, librosa, wavio, tensorflow 
+- Role: Team Leader, worked on audio regcognition and processing.
 
-[Project Name] is a cutting-edge project focused on [brief description of the project]. Its key features include [state the main goal/purpose].
+Explore [Tech Enchanced AI interview Learning Platform](https://github.com/YASTREAMER/Techshilla) ➡️
 
-- 🤖 [Feature 1]
-- 📊 [Feature 2]
-- 🚀 [Feature 3]
+### [Project 4: Autonomous Driven Vehicle(ADV)]
 
-Explore [Project 3](./project-3) ➡️ -->
+Developing a autonomous Vehicle which could run on its own without any assistance.
+- Ongoing project under the guidance of Dr.Balasubramanian Raman, focused on self-driving technologies.
+- Developed a 3D car model in Webots, integrating our institute's map and equipping it with distance sensors and cameras
+for environment perception.
+- Current Progress: Applying R-CNN (Region-based Convolutional Neural Network) to train the vehicle for object detection
+and recognition tasks
+-Future plans: Implementing the trained model into a miniature car embedded with LIDAR sensors for real-world testing
+and validation.
+- Position: Lead Computer Vision Team
 
+### [Project 5: Chess Engine]
+
+Currently trying to develope a chess engine in python.
+- Goal: - Create a chess engine and a chess bot 
+- Approch: - Draw the sprites on the screen, make the sprites move, calculate the moves for each piece. 
+- Library: - Pygame 
+Explore [Chess Engine](https://github.com/YASTREAMER/ChessRepo) ➡️
 ## Other Projects
 
 Check out my [GitHub profile](https://github.com/YASTREAMER) for a complete list of projects and contributions.
